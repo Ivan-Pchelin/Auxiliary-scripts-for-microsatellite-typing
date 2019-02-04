@@ -1,2 +1,1 @@
-# Auxiliary-scripts-for-microsatellite-typing 
-Here one can find scripts for conversion of haploid microsatellite or SSR typing data from GeneMapper format to a table (incrustator.py) and back (tabletogenemapper.py).
+# This script transforms a TAB-delimited table with microsatellite polymorphism data into GeneMapper file format
